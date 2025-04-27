@@ -12,5 +12,5 @@ My own suckless apps.
 
 1. attachbelow
 2. uselessgap
-3. centerfirstwindow
+3. alwayscenter
 
